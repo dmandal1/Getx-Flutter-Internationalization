@@ -17,9 +17,9 @@ class MessagesLocalization extends Translations {
  
   @override
   Map<String, Map<String, String>> get keys => {
-        'en_us': en,
-        'hi_in': hi, 
-        'bn_in': bn,
+        'en_US': en,
+        'hi_IN': hi, 
+        'bn_IN': bn,
       };
 
  
